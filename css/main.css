@@ -79,3 +79,8 @@ footer {
   margin-top: 1rem;
   width: 100%;
 }
+
+.jump {
+  text-decoration: none;
+  float: right;
+}
